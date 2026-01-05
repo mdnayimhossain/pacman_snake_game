@@ -1,0 +1,12 @@
+{
+    "users": {
+        "admin": {
+            "password": "admin123",
+            "high_score": 120
+        },
+        "player1": {
+            "password": "mypassword",
+            "high_score": 50
+        }
+    }
+}
