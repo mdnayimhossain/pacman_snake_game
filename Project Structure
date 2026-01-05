@@ -1,0 +1,8 @@
+pacman_snake_game/
+│
+├── main.py          # Main game code (Python + Pygame)
+├── assets/          # Optional sounds/images
+│   ├── eat.wav
+│   └── gameover.wav
+├── README.md
+└── .gitignore
